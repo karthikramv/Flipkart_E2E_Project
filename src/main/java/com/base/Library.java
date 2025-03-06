@@ -1,14 +1,13 @@
 package com.base;
 
 import java.io.FileInputStream;
+
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
-import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.apache.logging.log4j.core.config.Configurator;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -20,7 +19,6 @@ public class Library {
 	public static Properties prop=null;
 	protected static Logger logger;
 
-	@Test
 	public void launchingApplication() throws IOException {
 		FileInputStream input=new FileInputStream("src/test/resources/properties/config.property");
 		prop=new Properties();

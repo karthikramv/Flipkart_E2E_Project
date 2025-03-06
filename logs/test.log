@@ -395,3 +395,293 @@
 2025-02-26 17:01:24 INFO  seleniumReusable:99 - waitted for 3 seconds
 2025-02-26 17:01:25 INFO  seleniumReusable:55 - title getted
 2025-02-26 17:01:25 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:54:07 INFO  Library:29 - Launching the browser....
+2025-02-27 14:54:10 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:54:12 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:54:12 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:54:17 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:20 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:21 INFO  seleniumReusable:90 - dropdown values showing
+2025-02-27 14:54:24 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:24 INFO  seleniumReusable:90 - dropdown values showing
+2025-02-27 14:54:27 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:27 INFO  seleniumReusable:46 - clicked button
+2025-02-27 14:54:30 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:30 INFO  seleniumReusable:95 - scrolldown done
+2025-02-27 14:54:33 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:33 INFO  seleniumReusable:95 - scrolldown done
+2025-02-27 14:54:33 INFO  seleniumReusable:46 - clicked button
+2025-02-27 14:54:34 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:54:34 INFO  Library:29 - Launching the browser....
+2025-02-27 14:54:35 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:54:36 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:54:39 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:40 INFO  seleniumReusable:104 - MouseHover action is done
+2025-02-27 14:54:43 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:43 INFO  seleniumReusable:104 - MouseHover action is done
+2025-02-27 14:54:46 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:48 INFO  seleniumReusable:108 - Element moved successfully
+2025-02-27 14:54:51 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:54:51 INFO  seleniumReusable:46 - clicked button
+2025-02-27 14:54:52 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:54:52 INFO  Library:29 - Launching the browser....
+2025-02-27 14:54:53 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:54:55 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:54:55 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:54:57 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:54:57 INFO  seleniumReusable:67 - screenshot takened
+2025-02-27 14:54:57 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:54:57 INFO  Library:29 - Launching the browser....
+2025-02-27 14:54:58 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:55:00 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:55:00 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:02 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:55:02 INFO  seleniumReusable:67 - screenshot takened
+2025-02-27 14:55:02 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:55:03 INFO  Library:29 - Launching the browser....
+2025-02-27 14:55:04 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:55:05 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:55:06 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:08 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:55:08 INFO  seleniumReusable:67 - screenshot takened
+2025-02-27 14:55:08 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:55:08 INFO  Library:29 - Launching the browser....
+2025-02-27 14:55:09 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:55:11 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:55:11 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:13 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:55:14 INFO  seleniumReusable:67 - screenshot takened
+2025-02-27 14:55:14 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:55:14 INFO  Library:29 - Launching the browser....
+2025-02-27 14:55:15 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:55:17 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:55:17 INFO  seleniumReusable:104 - MouseHover action is done
+2025-02-27 14:55:17 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:55:20 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:55:21 INFO  seleniumReusable:108 - Element moved successfully
+2025-02-27 14:55:24 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:55:24 INFO  seleniumReusable:104 - MouseHover action is done
+2025-02-27 14:55:27 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:55:27 INFO  seleniumReusable:108 - Element moved successfully
+2025-02-27 14:55:28 INFO  seleniumReusable:113 - Clicked element
+2025-02-27 14:55:28 INFO  seleniumReusable:120 - Move to new window
+2025-02-27 14:55:28 INFO  seleniumReusable:120 - Move to new window
+2025-02-27 14:55:30 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:55:30 INFO  seleniumReusable:46 - clicked button
+2025-02-27 14:55:30 INFO  seleniumReusable:84 - Single Element value is geted
+2025-02-27 14:55:30 INFO  seleniumReusable:67 - screenshot takened
+2025-02-27 14:55:30 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:55:30 INFO  Library:29 - Launching the browser....
+2025-02-27 14:55:31 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:55:33 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:55:33 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:36 INFO  seleniumReusable:46 - clicked button
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:77 - getting Multiple text
+2025-02-27 14:55:36 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-02-27 14:55:36 INFO  Library:29 - Launching the browser....
+2025-02-27 14:55:37 INFO  Library:33 - Browser launched sucessfully
+2025-02-27 14:55:39 INFO  Library:42 - Navigated to the flipkart homepage
+2025-02-27 14:55:40 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:42 INFO  seleniumReusable:146 - Screenshot taken
+2025-02-27 14:55:45 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:55:46 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:49 INFO  seleniumReusable:146 - Screenshot taken
+2025-02-27 14:55:52 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:55:53 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:55:55 INFO  seleniumReusable:146 - Screenshot taken
+2025-02-27 14:55:58 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:55:59 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:56:02 INFO  seleniumReusable:146 - Screenshot taken
+2025-02-27 14:56:05 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:56:06 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:56:08 INFO  seleniumReusable:146 - Screenshot taken
+2025-02-27 14:56:11 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:56:12 INFO  seleniumReusable:36 - Entered Value
+2025-02-27 14:56:15 INFO  seleniumReusable:146 - Screenshot taken
+2025-02-27 14:56:18 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-02-27 14:56:19 INFO  seleniumReusable:55 - title getted
+2025-02-27 14:56:19 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:02:55 INFO  Library:27 - Launching the browser....
+2025-03-06 14:02:59 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:03:03 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:03:03 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:03:09 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:12 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:12 INFO  seleniumReusable:90 - dropdown values showing
+2025-03-06 14:03:15 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:15 INFO  seleniumReusable:90 - dropdown values showing
+2025-03-06 14:03:18 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:19 INFO  seleniumReusable:46 - clicked button
+2025-03-06 14:03:22 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:22 INFO  seleniumReusable:95 - scrolldown done
+2025-03-06 14:03:25 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:25 INFO  seleniumReusable:95 - scrolldown done
+2025-03-06 14:03:25 INFO  seleniumReusable:46 - clicked button
+2025-03-06 14:03:25 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:03:26 INFO  Library:27 - Launching the browser....
+2025-03-06 14:03:27 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:03:29 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:03:32 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:32 INFO  seleniumReusable:104 - MouseHover action is done
+2025-03-06 14:03:35 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:35 INFO  seleniumReusable:104 - MouseHover action is done
+2025-03-06 14:03:38 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:41 INFO  seleniumReusable:108 - Element moved successfully
+2025-03-06 14:03:44 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:03:44 INFO  seleniumReusable:46 - clicked button
+2025-03-06 14:03:44 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:03:45 INFO  Library:27 - Launching the browser....
+2025-03-06 14:03:46 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:03:48 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:03:48 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:03:50 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:03:50 INFO  seleniumReusable:67 - screenshot takened
+2025-03-06 14:03:51 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:03:51 INFO  Library:27 - Launching the browser....
+2025-03-06 14:03:52 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:03:54 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:03:55 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:03:57 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:03:57 INFO  seleniumReusable:67 - screenshot takened
+2025-03-06 14:03:57 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:03:57 INFO  Library:27 - Launching the browser....
+2025-03-06 14:03:58 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:04:01 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:04:01 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:04:03 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:04:03 INFO  seleniumReusable:67 - screenshot takened
+2025-03-06 14:04:03 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:04:03 INFO  Library:27 - Launching the browser....
+2025-03-06 14:04:04 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:04:06 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:04:06 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:04:23 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:04:24 INFO  seleniumReusable:67 - screenshot takened
+2025-03-06 14:04:24 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:04:24 INFO  Library:27 - Launching the browser....
+2025-03-06 14:04:25 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:04:28 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:04:28 INFO  seleniumReusable:104 - MouseHover action is done
+2025-03-06 14:04:28 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:04:31 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:04:33 INFO  seleniumReusable:108 - Element moved successfully
+2025-03-06 14:04:36 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:04:36 INFO  seleniumReusable:104 - MouseHover action is done
+2025-03-06 14:04:39 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:04:39 INFO  seleniumReusable:108 - Element moved successfully
+2025-03-06 14:04:40 INFO  seleniumReusable:113 - Clicked element
+2025-03-06 14:04:40 INFO  seleniumReusable:120 - Move to new window
+2025-03-06 14:04:40 INFO  seleniumReusable:120 - Move to new window
+2025-03-06 14:04:42 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:04:42 INFO  seleniumReusable:46 - clicked button
+2025-03-06 14:04:42 INFO  seleniumReusable:84 - Single Element value is geted
+2025-03-06 14:04:42 INFO  seleniumReusable:67 - screenshot takened
+2025-03-06 14:04:42 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:04:43 INFO  Library:27 - Launching the browser....
+2025-03-06 14:04:43 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:04:47 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:04:47 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:04:51 INFO  seleniumReusable:46 - clicked button
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:51 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:77 - getting Multiple text
+2025-03-06 14:04:52 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
+2025-03-06 14:04:52 INFO  Library:27 - Launching the browser....
+2025-03-06 14:04:53 INFO  Library:31 - Browser launched sucessfully
+2025-03-06 14:04:55 INFO  Library:40 - Navigated to the flipkart homepage
+2025-03-06 14:04:55 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:04:58 INFO  seleniumReusable:146 - Screenshot taken
+2025-03-06 14:05:01 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:05:03 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:05:05 INFO  seleniumReusable:146 - Screenshot taken
+2025-03-06 14:05:08 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:05:11 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:05:15 INFO  seleniumReusable:146 - Screenshot taken
+2025-03-06 14:05:18 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:05:20 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:05:22 INFO  seleniumReusable:146 - Screenshot taken
+2025-03-06 14:05:25 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:05:27 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:05:30 INFO  seleniumReusable:146 - Screenshot taken
+2025-03-06 14:05:33 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:05:35 INFO  seleniumReusable:36 - Entered Value
+2025-03-06 14:05:37 INFO  seleniumReusable:146 - Screenshot taken
+2025-03-06 14:05:40 INFO  seleniumReusable:99 - waitted for 3 seconds
+2025-03-06 14:05:42 INFO  seleniumReusable:55 - title getted
+2025-03-06 14:05:42 INFO  seleniumReusable:131 - Attached screenshot to the Extend report
