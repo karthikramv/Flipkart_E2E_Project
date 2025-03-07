@@ -20,7 +20,7 @@ public class Library {
 	protected static Logger logger;
 
 	public void launchingApplication() throws IOException {
-		FileInputStream input=new FileInputStream("src/test/resources/properties/config.property");
+		FileInputStream input=new FileInputStream("src/test/resources/properties/config.properties");
 		prop=new Properties();
 		prop.load(input);
 		Logger logger=LogManager.getLogger(Library.class);
